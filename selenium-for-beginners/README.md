@@ -19,7 +19,7 @@ In order to utilize this project you need to have the following installed locall
 * Maven 4
 ## Usage
 This project is broken into separate modules for Negative and Positive tests utilizing given username and password as well as Exception tests that may occur while automating tests.
-To run all tests, navigate to `selenium-automation-testing directory` and run:
+To run all tests, navigate to `selenium-automation-testing` directory and run:
 
 `mvn clean install`
 
